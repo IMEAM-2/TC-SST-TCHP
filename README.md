@@ -1,4 +1,4 @@
-# Tropical Cyclone SST and TCHP Statistics
+# Tropical Cyclone SST Statistics
 
 This repository provides compact datasets of tropical cyclone track points and nearby sea surface temperature statistics based on merged best-track-like tropical cyclone records and daily SST products.
 
